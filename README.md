@@ -23,4 +23,4 @@
   src="/screen_shot/4.png"
   alt="Screen Shot 4"
   title="Screen Shot 4"
-  style="display: inline-block; margin: 0 auto; height: 680px; width: 680px">
+  style="display: inline-block; margin: 0 auto; height: 600px; width: 680px">
