@@ -21,6 +21,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun init() = binding.apply {
         btnCheck.setOnClickListener {
+            it.hideKeyboard()
             val nationalCode = edtCode.editText?.text
             if (nationalCode.isNullOrEmpty() || nationalCode.length < 10) {
                 edtCode.error = getString(R.string.please_fill_10_length_code)
