@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">بررسی اعتبار کد ملی</string>
+    <string name="check_validation">بررسی اعتبار</string>
+    <string name="correct">معتبر می باشد</string>
+    <string name="wrong">معتبر نمی باشد</string>
+    <string name="enter_national_code">کد ملی را وارد نمایید</string>
+    <string name="please_fill_10_length_code">لطفا کد ملی 10 رقمی وارد نمایید.</string>
+    <string name="hint_code">1234567890</string>
+</resources>
