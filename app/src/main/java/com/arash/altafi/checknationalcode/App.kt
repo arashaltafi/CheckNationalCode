@@ -1,4 +1,4 @@
-package com.example.checknationalcode
+package com.arash.altafi.checknationalcode
 
 import android.app.Application
 import androidx.appcompat.app.AppCompatDelegate

@@ -1,10 +1,10 @@
-package com.example.checknationalcode
+package com.arash.altafi.checknationalcode
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.inputmethod.EditorInfo
 import androidx.core.content.ContextCompat
-import com.example.checknationalcode.databinding.ActivityMainBinding
+import com.arash.altafi.checknationalcode.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

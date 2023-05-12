@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.checknationalcode'
+    namespace 'com.arash.altafi.checknationalcode'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.checknationalcode"
+        applicationId "com.arash.altafi.checknationalcode"
         minSdk 21
         targetSdk 33
         versionCode 1
